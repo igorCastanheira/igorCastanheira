@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igorCastanheira
 - 👀 I’m interested to learn about programing
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React
 - 💞️ I’m looking for collaborate on beginners projects or join to support who wants to share knowledge.
 - 📫 How to reach me igor.castanheira.dev@gmail.com
 
